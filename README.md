@@ -1,1 +1,1 @@
-# PlatformProject
+Project for Game Software Development
